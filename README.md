@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @SmeltyEvades
-- 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning java and precalculus
-- 💞️ I’m looking to collaborate on evades3! 
-- 📫 How to reach me: smeltyboy@gmail.com
+- Hi, I’m Smelty
+- I’m interested in gaming and coding
+- I’m currently learning java/c++ and calc ab
 
 <!---
 SmeltyEvades/SmeltyEvades is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
